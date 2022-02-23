@@ -1,0 +1,21 @@
+body{
+	background-image: url("concrete-road.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-family: fantasy;
+}
+#myCanvas{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h3,h4{
+	color: rgb(255, 241, 43) !important;
+    font-family: cursive;
+}
+h1{
+    font-variant: small-caps;
+}
